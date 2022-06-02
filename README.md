@@ -11,10 +11,7 @@ Kubernetes is a fantastic tool for this type of case.
 
 > Maintainer
 
-This documentation is supported by [CannaviT](https://github.com/cannavit)
 
-
-<a href="https://www.buymeacoffee.com/cannavit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 ###  Table of contents
 
 1. [Introduction](#tls-certificates)
